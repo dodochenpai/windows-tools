@@ -14,6 +14,8 @@
 - [PowerView](https://github.com/PowerShellMafia/PowerSploit)
 - [PsExec64](https://learn.microsoft.com/en-us/sysinternals/downloads/psexec)
 - [Rubeus](https://github.com/GhostPack/Rubeus)
+- [Run As Trusted Installer](https://github.com/nfedera/run-as-trustedinstaller/)
+- [RunDll.Net](https://github.com/p3nt4/RunDLL.Net)
 - [Seatbelt](https://github.com/GhostPack/Seatbelt)
 - [SharpGPOAbuse](https://github.com/FSecureLABS/SharpGPOAbuse)
 - [SharpSCCM](https://github.com/Mayyhem/SharpSCCM)
